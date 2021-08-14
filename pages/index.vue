@@ -1,5 +1,4 @@
 <template>
-    <main>
       <div class="grid grid-cols-3">
         <div class="post" v-for="post in posts" :key="post.id">
           
@@ -23,8 +22,6 @@
 
         </div>
       </div>
-    </main> 
-
 </template>
 
 <script>

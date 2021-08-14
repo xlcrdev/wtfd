@@ -23,7 +23,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style>
 .nav {
   background: #000;
   color: #fff;

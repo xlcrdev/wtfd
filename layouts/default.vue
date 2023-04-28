@@ -5,8 +5,7 @@
         <app-nav></app-nav>
       </nav>
     </div>
-    <div>XLCR Dev</div>
-    <div>
+    <div class="border">
       <nuxt />
     </div>
   </div>

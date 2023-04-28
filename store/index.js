@@ -26,7 +26,6 @@ export const actions = {
         ).then(res => res.json())
         posts = posts
           .filter(el => el.status === "publish")
-          .filter(el => el.tags === "active")
           .map(({ id, slug, title, excerpt, date, tags, content }) => ({
             id,
             slug,

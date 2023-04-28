@@ -12,9 +12,9 @@
           <div class="px-6 py-4 pb-2 bg-gray-300">
             <div class="font-bold text-lg mb-2"><a :href="`blog/${post.slug}`" v-html="post.title.rendered"></a></div>
             <div class="text-xs text-green-500 mb2">{{ post.date }}</div>
-            <div class="text-white text-base">
-            <div v-html="post.excerpt.rendered"></div>
-              
+            <div class="text-xs text-green-500 mb2">{{ post.tags }}</div>
+            <div class="text-black text-base">
+              <div v-html="post.excerpt.rendered"></div>
             </div>
           </div>
         </div>

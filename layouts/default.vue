@@ -1,11 +1,11 @@
 <template>
   <div class="grid grid-cols-1">
-    <div class="bg-black">
+    <div class="p-2 bg-black">
       <nav>
         <app-nav></app-nav>
       </nav>
     </div>
-    <div class="bg-gray-600">
+    <div class="p-2 bg-gray-600">
       <nuxt />
     </div>
   </div>

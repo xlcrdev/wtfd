@@ -3,7 +3,7 @@
     <div class="post" v-for="post in posts" :key="post.id">
       
       <div class="p-4">
-        <div class="max-w-sm rounded overflow-hidden shadow-lg mb-4">
+        <div class="max-w-sm rounded ring overflow-hidden shadow-lg mb-4">
           <img
             class="w-full"
             src="~assets/img/featured-default.jpg"

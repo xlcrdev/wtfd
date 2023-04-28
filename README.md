@@ -1,4 +1,6 @@
-# WTFD
+# xlcrdev.com | WTFD
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aa335faa-2c49-4ab0-8eae-5206c15c2990/deploy-status)](https://app.netlify.com/sites/relaxed-swanson-ab0aeb/deploys)
 
 ## Build Setup
 

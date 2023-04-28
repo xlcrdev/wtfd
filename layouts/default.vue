@@ -5,7 +5,7 @@
         <app-nav></app-nav>
       </nav>
     </div>
-    <div class="border">
+    <div class="border bg-primary">
       <nuxt />
     </div>
   </div>

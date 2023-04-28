@@ -1,9 +1,9 @@
 <template>
     <div>
-        <p>Welcome to my first Vue / Nuxt app</p>
+        <p>Hello (Nuxt) World</p>
     </div>
 </template>
 
 <style>
-
+    
 </style>

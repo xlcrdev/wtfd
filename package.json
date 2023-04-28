@@ -35,7 +35,6 @@
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.12.1",
     "jest": "^27.0.5",
-    "postcss": "^8.3.6",
     "ts-jest": "^27.0.3",
     "vue-jest": "^3.0.4"
   }

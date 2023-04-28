@@ -1,5 +1,5 @@
 <template>
-    <div>WTFD</div>
+    <div>xlcrdev.com | </div>
 </template>
 
 <script>

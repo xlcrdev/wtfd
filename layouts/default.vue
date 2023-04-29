@@ -8,7 +8,7 @@
     <div class="bg-gray-600">
       <nuxt />
     </div>
-    <div class="bg-white font-mono text-xs italic text-right border-black">
+    <div class="p-3 bg-white font-mono text-xs italic text-right border-black">
       <p>hello world xlcrdev.com &copy; 2023</p>
     </div>
   </div>
@@ -25,6 +25,8 @@ export default {
 </script>
 
 <style>
+  p {
 
+  }
 
 </style>

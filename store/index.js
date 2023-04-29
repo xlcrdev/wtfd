@@ -26,12 +26,13 @@ export const actions = {
         ).then(res => res.json())
         posts = posts
           .filter(el => el.status === "publish")
-          .map(({ id, slug, title, excerpt, date, tags, content, featured_image_src_large }) => ({
+          .map(({ id, slug, title, excerpt, date, categories, tags, content, featured_image_src_large }) => ({
             id,
             slug,
             title,
             excerpt,
             date,
+            categories,
             tags,
             content,
             featured_image_src_large

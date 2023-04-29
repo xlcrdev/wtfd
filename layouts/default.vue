@@ -1,14 +1,14 @@
 <template>
   <div class="grid grid-cols-1">
-    <div class="p-2 bg-black">
+    <div class="bg-gray-800">
       <nav>
         <app-nav></app-nav>
       </nav>
     </div>
-    <div class="p-2 bg-gray-600">
+    <div class="bg-gray-600">
       <nuxt />
     </div>
-    <div class="p-2 bg-white font-mono text-xs italic text-right border-black">
+    <div class="bg-white font-mono text-xs italic text-right border-black">
       <p>hello world xlcrdev.com &copy; 2023</p>
     </div>
   </div>

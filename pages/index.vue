@@ -6,8 +6,8 @@
         <div class="max-w-sm rounded ring overflow-hidden shadow-lg mb-4">
           <img
             class="w-full"
-            src="~assets/img/featured-default.jpg"
-            alt="mountains"
+            :src="post.featured_image_src_large[0]"
+            alt=""
           >
           <div class="px-6 py-4 pb-2 bg-gray-300">
             <div class="font-bold text-lg mb-2"><a :href="`blog/${post.slug}`" v-html="post.title.rendered"></a></div>

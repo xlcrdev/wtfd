@@ -1,22 +1,11 @@
 <template>
-    <div>xlcrdev.com | </div>
+    <img class="mr-2" src="~/assets/img/xlcr-dev-logo.png" />
 </template>
 
 <script>
 export default {
   props: {
-    height: {
-      type: Number,
-      default: 40
-    },
-    width: {
-      type: Number,
-      default: 40
-    },
-    fill: {
-      type: String,
-      default: "#fff"
-    }
+
   }
 };
 </script>

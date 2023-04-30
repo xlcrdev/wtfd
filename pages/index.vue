@@ -1,11 +1,11 @@
 <template>
-  <div class="grid grid-cols-3">
+  <div class="grid grid-cols-4">
     <div class="post" v-for="post in posts" :key="post.id">
       
       <div class="p-4">
         <div class="max-w-sm rounded shadow-lg mb-4">
           <img
-            class="m-1 p-1 align-top"
+            class=""
             :src="post.featured_image_src_large[0]"
             alt="" 
             height="200"

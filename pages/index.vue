@@ -8,13 +8,12 @@
             class=""
             :src="post.featured_image_src_large[0]"
             alt="" 
-            height="200"
+            height=""
           >
           <div class="px-6 py-4 pb-2 bg-gray-300">
             <div class="font-bold text-lg mb-2"><a :href="`blog/${post.slug}`" v-html="post.title.rendered"></a></div>
             <div class="text-xs text-green-500 mb2">{{ post.date }}</div>
-            <div class="text-xs text-green-500 mb2">{{ post.categories }}</div>
-            <div class="text-black text-base">
+            <div class="text-black text-base line-clamp-3>
               <div v-html="post.excerpt.rendered"></div>
             </div>
           </div>

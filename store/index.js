@@ -25,7 +25,7 @@ export const actions = {
         let posts = await fetch( `https://xlcrdevelopment.com/wp-json/wp/v2/posts?page=1&per_page=8&_embed=1`
         ).then(res => res.json())
         posts = posts
-          .filter(el => el.status === "publish")
+          .filter(el => el.status === "publish" )
           .map(({ id, slug, title, excerpt, date, categories, tags, content, featured_image_src_large }) => ({
             id,
             slug,

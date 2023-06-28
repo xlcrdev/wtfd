@@ -1,5 +1,11 @@
 # xlcrdev.com | WTFD
 
+The project came about with wanting to experiment with a JS framework (Nuxt 2.0), content data is sourced from an existing WordPress site via the WP API.
+
+More notes to come.
+
+---
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/aa335faa-2c49-4ab0-8eae-5206c15c2990/deploy-status)](https://app.netlify.com/sites/relaxed-swanson-ab0aeb/deploys)
 
 ## Build Setup

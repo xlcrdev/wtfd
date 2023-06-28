@@ -1,6 +1,13 @@
-# xlcrdev.com | WTFD
+# [xlcrdev.com](https://xlcrdev.com)
 
-The project came about with wanting to experiment with a JS framework (Nuxt 2.0), content data is sourced from an existing WordPress site via the WP API.
+This project came about with wanting to experiment with a JS framework (Nuxt 2.0) including deployment. The content data is sourced from an existing WordPress site via the WP API.
+
+Very alpha stages
+
+##Notes:
+1. [Nuxt](https://v2.nuxt.com/) is quite easy to work with.
+2. [Netlify](https://netlify.com) is also easy to work with.
+3. Latest [Nuxt 3](https://nuxt.com/) is out now, need to refresh this or start over?
 
 More notes to come.
 

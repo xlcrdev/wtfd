@@ -13,7 +13,7 @@
 </template>
 
 <script>
-  export default {};
+export default {}
 </script>
 
 <style>
@@ -22,7 +22,4 @@
     padding: 10px;
   }
 
-  p {
-    
-  }
 </style>

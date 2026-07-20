@@ -1,5 +1,5 @@
 <template>
-  <img src="~/assets/img/featured-default.jpg" />
+  <img src="~/assets/img/xlcr_dev_logo-v5.png" />
 </template>
 
 <style>

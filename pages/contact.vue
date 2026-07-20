@@ -5,18 +5,12 @@
       <p>Contact</p>
 
     </div>
-  </template>
-  
-  <script>
-    export default {};
-  </script>
-  
-  <style>
-    .contact {
-      
-    }
-  
-    p {
-      
-    }
-  </style>
+</template>
+
+<script>
+  export default {}
+</script>
+
+<style>
+
+</style>

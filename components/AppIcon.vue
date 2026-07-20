@@ -7,7 +7,7 @@ export default {
   props: {
 
   }
-};
+}
 </script>
 
 <style>

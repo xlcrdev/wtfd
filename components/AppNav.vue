@@ -17,13 +17,13 @@
 </template>
 
 <script>
-import AppIcon from "@/components/AppIcon.vue";
+import AppIcon from '@/components/AppIcon.vue'
 
 export default {
   components: {
     AppIcon
   }
-};
+}
 </script>
 
 <style>

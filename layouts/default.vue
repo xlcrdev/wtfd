@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import AppNav from "~/components/AppNav.vue";
+import AppNav from '~/components/AppNav.vue'
 
 export default {
   components: {
@@ -25,8 +25,5 @@ export default {
 </script>
 
 <style>
-  p {
-
-  }
 
 </style>

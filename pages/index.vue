@@ -27,7 +27,7 @@
 <script>
   export default {
     computed: {
-      posts() {
+      posts() { 
         return this.$store.state.posts;
       },
     },

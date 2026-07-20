@@ -1,5 +1,5 @@
 <template>
-    <img class="mr-2" src="~/assets/img/xlcr-dev-logo.png" />
+  <img class="mr-2" src="~/assets/img/xlcr-dev-logo.png" />
 </template>
 
 <script>

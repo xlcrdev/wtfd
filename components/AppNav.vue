@@ -1,6 +1,6 @@
 <template>
   <div class="nav">
-    <AppIcon></AppIcon>    
+    <AppIcon></AppIcon>
     <ul class="flex">
       <li class="-mb-px mr-1">
         <a class="bg-gray inline-block border rounded py-2 px-4 text-blue-700 font-bold" href="/">Home</a>
@@ -10,9 +10,8 @@
       </li>
       <li class="mr-1">
         <a class="bg-gray inline-block border rounded py-2 px-4 text-blue-500 hover:text-white font-bold" href="/contact">Contact</a>
-      </li>      
+      </li>
     </ul>
-
   </div>
 </template>
 

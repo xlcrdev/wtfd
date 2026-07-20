@@ -27,31 +27,31 @@ export default {
 </script>
 
 <style>
-.nav {
-  padding: 1em 100px;
+  .nav {
+    padding: 1em 100px;
 
-  a {
+    a {
 
-    opacity: 0.8;
-    &:hover {
-      opacity: 1;
+      opacity: 0.8;
+      &:hover {
+        opacity: 1;
+      }
     }
   }
-}
 
-div {
-  align-items: center;
-  display: flex;
-  height: 100%;
-  width: 100%;
-}
-
-ul {
-  padding-left: 0;
-
-  li {
-    display: inline-block;
-    margin-right: 30px;
+  div {
+    align-items: center;
+    display: flex;
+    height: 100%;
+    width: 100%;
   }
-}
+
+  ul {
+    padding-left: 0;
+
+    li {
+      display: inline-block;
+      margin-right: 30px;
+    }
+  }
 </style>

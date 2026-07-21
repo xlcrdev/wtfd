@@ -22,13 +22,13 @@
 
 <script>
 export default {
-computed: {
-  posts () {
-    return this.$store.state.posts
+  computed: {
+    posts () {
+      return this.$store.state.posts
   }
 },
-created () {
-  this.$store.dispatch(getPosts)
-},
-};
+  created () {
+    this.$store.dispatch(getPosts)
+  }
+}
 </script>

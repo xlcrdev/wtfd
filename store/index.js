@@ -39,7 +39,7 @@ export const actions = {
         }))
       commit('updatePosts', posts)
     } catch (err) {
-      // console.log(err)
+      console.log(err)
     }
   }
 }

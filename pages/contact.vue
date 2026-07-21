@@ -1,10 +1,9 @@
 <template>
-    <div class="about">
-      <h1>Contact</h1>
-      <p>This is an experimental website ...</p>
-      <p>Contact</p>
-
-    </div>
+  <div class="about">
+    <h1>Contact</h1>
+    <p>This is an experimental website ...</p>
+    <p>Contact</p>
+  </div>
 </template>
 
 <script>

@@ -2,7 +2,7 @@
   <div class="grid grid-cols-1">
     <div class="bg-gray-800">
       <nav>
-        <app-nav></app-nav>
+        <app-nav />
       </nav>
     </div>
     <div class="bg-gray-600">

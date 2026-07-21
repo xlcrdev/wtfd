@@ -1,7 +1,7 @@
 <template>
-    <div>
-        <p>Hello (Nuxt) World</p>
-    </div>
+  <div>
+    <p>Hello (Nuxt) World</p>
+  </div>
 </template>
 
 <style>

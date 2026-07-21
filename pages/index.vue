@@ -26,7 +26,7 @@ computed: {
   posts () {
     return this.$store.state.posts
   }
-}
+},
 created () {
   this.$store.dispatch(getPosts)
 },

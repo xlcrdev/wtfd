@@ -2,7 +2,6 @@
   "compilerOptions": {
     "target": "ES2018",
     "module": "ESNext",
-    "moduleResolution": "Node",
     "lib": [
       "ESNext",
       "ESNext.AsyncIterable",
@@ -14,7 +13,6 @@
     "strict": true,
     "noEmit": true,
     "experimentalDecorators": true,
-    "baseUrl": ".",
     "paths": {
       "~/*": [
         "./*"
@@ -28,7 +26,7 @@
       "@nuxtjs/axios",
       "@nuxt/content",
       "@types/node",
-      "@nuxt/moment"
+      "@nuxtjs/moment"
     ]
   },
   "exclude": [

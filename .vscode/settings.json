@@ -1,0 +1,17 @@
+{
+  // Disable default formatters so they do not conflict with ESLint
+  "editor.formatOnSave": false,
+  
+  // Tell ESLint to run code fixes automatically on save
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  
+  // Ensure ESLint validates Vue, JS, TS, and JSON files
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "vue",
+    "json"
+  ]
+}

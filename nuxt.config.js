@@ -39,14 +39,12 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios',
-    // https://go.nuxtjs.dev/pwa
-    '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
     // https://go.nuxtjs.dev/eslint
-    '@nuxt/eslint'
+    '@nuxt/eslint',
+    // vite-pwa
+    '@vite-pwa/nuxt'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
